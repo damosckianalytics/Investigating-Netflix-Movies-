@@ -1,4 +1,3 @@
-
 # Overview / Introduction
 
 Netflix began as a DVD rental service in 1997 and has since evolved into one of the most influential media and entertainment platforms worldwide. This project explores Netflix’s movie catalogue, with a specific focus on films released during the 1990s—a decade renowned for its distinctive cinematic styles. The analysis aims to support a production company that specialises in nostalgic themes.
