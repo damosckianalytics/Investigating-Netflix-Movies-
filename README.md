@@ -14,9 +14,9 @@ Netflix began as a DVD rental service in 1997 and has since evolved into one of 
 
 # Data Source
 
-•	Dataset: netflix_data.csv
-•	Features include: show ID, type, title, director, cast, country, date added, release year, duration, description, and genre.
-•	The dataset contains 4,812 entries with complete information and no missing values.
+-	Dataset: netflix_data.csv
+-	Features include: show ID, type, title, director, cast, country, date added, release year, duration, description, and genre.
+-	The dataset contains 4,812 entries with complete information and no missing values.
 
 # Tools Used
 
