@@ -6,10 +6,11 @@ Netflix began as a DVD rental service in 1997 and has since evolved into one of 
 
 # Objectives
 
-•	To perform exploratory data analysis (EDA) on Netflix’s movie database.
-•	To identify and examine movies released in the 1990s.
-•	To explore trends in genres and durations during this period.
-•	To provide data-driven recommendations for content creators targeting a retro audience.
+1.	To perform exploratory data analysis (EDA) on Netflix’s movie database.
+2.	To identify and examine movies released in the 1990s.
+3.	To explore trends in genres and durations during this period.
+4.	To provide data-driven recommendations for content creators targeting a retro audience.
+
 
 # Data Source
 
